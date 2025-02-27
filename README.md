@@ -1,4 +1,4 @@
-# Java30
+# Java100
 
 Solutions to Java Exercism Problems
 
